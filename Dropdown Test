@@ -1,4 +1,8 @@
+<!DOCTYPE html>
+<html>
+<body>
 <label for="nav-stuff">Menu</label>
 <select id="nav-stuff">
 <option value="Foot">Foot</option>
 </select>
+</body>
