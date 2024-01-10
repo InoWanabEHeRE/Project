@@ -33,3 +33,8 @@
 
 .dropdown:hover .dropbtn {background-color: #3e8e41;}
 
+#home {
+  text-align: center;
+  color: black;
+  font-size: 10pt;
+}
