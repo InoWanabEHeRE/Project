@@ -34,7 +34,9 @@
 .dropdown:hover .dropbtn {background-color: #BFA730;}
 
 #home {
-  text-align: center;
   color: black;
-  font-size: 10pt;
+  font-size: 14pt;
+  padding: 5px;
 }
+h2 {color: #47b92c}
+.span1 {text-align: center}
