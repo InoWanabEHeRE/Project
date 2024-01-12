@@ -36,7 +36,7 @@
 #home {
   color: black;
   font-size: 14pt;
-  padding: 5px;
+   border: 5px solid blue;
 }
 h2 {color: #47b92c}
 .span1 {text-align: center}
@@ -46,5 +46,5 @@ header {
 }
 
 body {
-  border: 5px solid blue;
+ 
 }
