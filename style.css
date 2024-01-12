@@ -46,5 +46,6 @@ header {
 }
 
 body {
- border: 5px solid aero;
+  border: 5px solid aero;
+  background-color: #FFED96;
 }
