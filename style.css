@@ -44,3 +44,7 @@ h2 {color: #47b92c}
 header {
   background-color: #FFDE40;
 }
+
+body {
+  border: 5px solid light blue;
+}
