@@ -46,7 +46,7 @@ header {
 }
 
 body {
-  margin: 0px;
+  margin: 1px;
   border: 5px solid #007FFF;
   background-color: #FFED96;
 }
