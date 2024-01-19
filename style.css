@@ -52,3 +52,10 @@ body {
 #spin:hover, #spin:active {
   transform: rotate(-90deg);
 }
+div, iframe {
+  margin: 0 auto;
+}
+iframe {
+  display: block;
+  border: solid black 1px;
+}
