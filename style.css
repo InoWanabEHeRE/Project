@@ -50,5 +50,5 @@ body {
 }
 #spin {transition: all 3s}
 #spin:hover, #spin:active {
-  transform: rotate(360deg);
+  transform: rotate(180deg);
 }
