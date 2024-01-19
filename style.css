@@ -48,7 +48,7 @@ header {
 body {
   background-color: #FFED96;
 }
-#spin {transition: all 3s}
+#spin {transition: all 1s}
 #spin:hover, #spin:active {
   transform: rotate(-90deg);
 }
