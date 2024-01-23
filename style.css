@@ -44,12 +44,10 @@ h2 {color: #47b92c}
 
 header {
   background-color: #FFDE40;
-  border: 5px solid black;
 }
 
 body {
   background-color: #FFED96;
-  border: 5px solid black;
 }
 #spin {transition: all 2s}
 #spin:hover, #spin:active {
