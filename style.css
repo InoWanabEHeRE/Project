@@ -144,7 +144,7 @@ input {
   width: 100%;
   padding: 6px 10px;
 }
-@media only screen and (max-device-width: 1360px) {
+@media all screen and (max-device-width: 1366px) {
 	.show-chromebook {
 		display: block;
 	}
