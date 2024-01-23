@@ -144,7 +144,7 @@ input {
   width: 100%;
   padding: 6px 10px;
 }
-@media all screen and (max-device-width: 1366px) {
+@media screen and (max-device-width: 1366px) {
 	.show-chromebook {
 		display: block;
 	}
@@ -152,7 +152,7 @@ input {
 		display: none
 	}
 }
-@media only screen and (min-device-width: 1367px) {
+@media screen and (min-device-width: 1367px) {
       .show-chromebook {
         display: none;
       }
