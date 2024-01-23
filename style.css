@@ -3,6 +3,7 @@
   color: black;
   padding: 15px;
   font-size: 16px;
+  border: solid black 5px;
 }
 
 .dropdown {
