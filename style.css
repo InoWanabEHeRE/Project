@@ -144,3 +144,19 @@ input {
   width: 100%;
   padding: 6px 10px;
 }
+@media only screen and (max-device-width: 1366px) {
+	.show-chromebook {
+		display: block;
+	}
+	.hide-chromebook {
+		display: none
+	}
+}
+@media only screen and (min-device-width: 1367px) {
+      .show-chromebook {
+        display: none;
+      }
+      .hide-chromebook {
+        display: block;
+      }
+    }
