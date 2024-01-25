@@ -52,7 +52,7 @@ body {
 
 #spin {transition: all .7s}
 
-#spin:hover {transform: rotate(90deg)}
+#spin:hover, spin:active {transform: rotate(90deg)}
 
 div, iframe {
   margin: 0 auto;
