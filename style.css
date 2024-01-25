@@ -175,14 +175,14 @@ input {
     margin: 0;
 }
  
-.animals {
+.site {
     font-size: 1.2em;
     padding: 10px;
     border-bottom: 1px solid #ccc;
     animation: fadeIn 0.5s ease-in-out;
 }
  
-.animals:last-child {
+.site:last-child {
     border-bottom: none;
 }
  
