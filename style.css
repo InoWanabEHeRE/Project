@@ -49,9 +49,11 @@ header {
 body {
   background-color: #FFED96;
 }
-#spin {transition: all 10ms}
-#spin:active {
-  transform: rotate(-90deg);
+.rotate:hover, .stay {
+  transform: rotate(-90deg)
+}
+.normal {
+  transform:rotate(0deg)!important
 }
 div, iframe {
   margin: 0 auto;
