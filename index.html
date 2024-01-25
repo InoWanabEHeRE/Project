@@ -48,12 +48,12 @@
         </ul>
     </div>
  
-    <script src="./script.js">
+    <script>
 
-	    function search_animal() {
+	    function search_site() {
   let input = document.getElementById('searchbar').value
   input = input.toLowerCase();
-  let x = document.getElementsByClassName('animals');
+  let x = document.getElementsByClassName('site');
  
   for (i = 0; i < x.length; i++) {
     if (!x[i].innerHTML.toLowerCase().includes(input)) {
