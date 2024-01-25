@@ -49,7 +49,7 @@ header {
 body {
   background-color: #FFED96;
 }
-#spin {transition: all .8s}
+#spin {transition: all 10ms}
 #spin:active {
   transform: rotate(-90deg);
 }
